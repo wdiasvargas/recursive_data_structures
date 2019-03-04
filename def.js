@@ -1,0 +1,1 @@
+const def = x => (typeof x !== 'undefined')
